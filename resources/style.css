@@ -1,0 +1,31 @@
+* {
+    font-family: Veranda;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+#copyright {
+    text-align: right;
+    color: grey;
+}
